@@ -1,0 +1,7 @@
+#Mon Jan 02 22:25:07 IST 2017
+base.0=D\:\\Make Your App Material XYZReader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c6bf2a1ff0843db2162a2ad7d2c388f4bff72e1c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Make Your App Material XYZReader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b58b417b5a4f08bbdf06af68b1d84c55ee9c03d1\\classes.dex
+base.1=D\:\\Make Your App Material XYZReader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b58b417b5a4f08bbdf06af68b1d84c55ee9c03d1
+file.0=D\:\\Make Your App Material XYZReader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c6bf2a1ff0843db2162a2ad7d2c388f4bff72e1c\\classes.dex
